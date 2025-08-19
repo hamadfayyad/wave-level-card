@@ -6,7 +6,7 @@ A custom Lovelace card for Home Assistant that displays a beautiful animated wav
 A **custom Lovelace card** for [Home Assistant](https://www.home-assistant.io/) that visualizes sensor values with an animated **wave-style level indicator** inside a circle.  
 Useful for entities that represent percentage values such as **soil moisture, water tank levels, humidity, battery, etc.**
 
-![Wave Level Card Example](./screenshot.png)
+![Wave Level Card Example](./WaveLevelCard.png)
 
 ---
 
