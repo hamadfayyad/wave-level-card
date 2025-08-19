@@ -24,13 +24,13 @@ Useful for entities that represent percentage values such as **soil moisture, wa
 ## 📦 Installation
 
 1. **Download** the file  
-   Save [`wave-level-card.js`](./wave-level-card.js) into your Home Assistant `www` folder:
+   Save [`wave-level-card.js`](./wave-level-card.js) into your Home Assistant `config/www/community/wave-level-card-main` folder:
 
 
 2. **Add as a Resource**  
 Go to Home Assistant UI → *Settings* → *Dashboards* → *Resources* → *+ Add Resource*
 
-- URL: `/local/wave-level-card.js`
+- URL: `/hacsfiles/wave-level-card-main/wave-level-card.js`
 - Type: **JavaScript Module**
 
 > ⚠️ If you don’t see "Resources", enable **Advanced Mode** in your user profile.
